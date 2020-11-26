@@ -5,7 +5,7 @@
 ###############################################
 
 
-name: GitHub's Super Linter
+name: linter
 
 
 on: push
